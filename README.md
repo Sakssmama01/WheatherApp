@@ -1,15 +1,15 @@
 # 🌦️ Weather App
 
-A modern Android Weather Application built using Kotlin that provides real-time weather updates with a clean and user-friendly UI.
+A modern Android Weather Application built using **Kotlin** that provides real-time weather updates with a clean and user-friendly UI.
 
 ---
 
 ## 📱 Features
-- 🌍 Get current weather by location
-- 🌡️ Temperature, humidity, wind speed details
+- 🌍 Get current weather using location
+- 🌡️ Temperature, humidity, wind speed
 - 🔍 Search weather by city name
 - 🎨 Clean and modern UI
-- ⚡ Fast and responsive
+- ⚡ Fast and responsive performance
 
 ---
 
@@ -17,17 +17,16 @@ A modern Android Weather Application built using Kotlin that provides real-time 
 - Kotlin
 - Android Studio
 - MVVM Architecture
-- Retrofit (API calls)
-- Jetpack Compose / XML (based on your UI)
+- Retrofit (API Integration)
+- Jetpack Compose / XML
 
 ---
 
 ## 📸 Screenshot
-![Weather App](https://ibb.co/B2b9w115)
+![Weather App](https://raw.githubusercontent.com/Sakssmama01/WheatherApp/main/WhatsApp%20Image%202026-03-26%20at%2017.53.06.jpeg)
 
 ---
 
 ## 🚀 Installation
-1. Clone the repository
 ```bash
 git clone https://github.com/Sakssmama01/WheatherApp.git
